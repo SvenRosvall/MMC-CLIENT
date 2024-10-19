@@ -67,8 +67,6 @@
       </q-card>
     </q-dialog>
 
-    />
-
 
 </template>
 

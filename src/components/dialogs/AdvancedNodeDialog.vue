@@ -39,8 +39,6 @@
       </q-card>
     </q-dialog>
 
-    />
-
     <deleteNodeDialog v-model='showDeleteNodeDialog'
       :nodeNumber = nodeNumber
     />
